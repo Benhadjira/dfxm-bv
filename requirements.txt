@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pandas
+torch
+torchvision
+scikit-learn
+ipykernel
+ipywidgets
+fabio
+imageio
+
